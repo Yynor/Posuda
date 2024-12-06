@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/new/Desktop/CREATE/Anna/Market.csproj": {}
+    "/Users/new/Desktop/Posuda/Market.csproj": {}
   },
   "projects": {
-    "/Users/new/Desktop/CREATE/Anna/Market.csproj": {
+    "/Users/new/Desktop/Posuda/Market.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/new/Desktop/CREATE/Anna/Market.csproj",
+        "projectUniqueName": "/Users/new/Desktop/Posuda/Market.csproj",
         "projectName": "Market",
-        "projectPath": "/Users/new/Desktop/CREATE/Anna/Market.csproj",
+        "projectPath": "/Users/new/Desktop/Posuda/Market.csproj",
         "packagesPath": "/Users/new/.nuget/packages/",
-        "outputPath": "/Users/new/Desktop/CREATE/Anna/obj/",
+        "outputPath": "/Users/new/Desktop/Posuda/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/new/.nuget/NuGet/NuGet.Config"
