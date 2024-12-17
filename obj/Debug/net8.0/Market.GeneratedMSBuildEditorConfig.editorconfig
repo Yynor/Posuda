@@ -15,36 +15,36 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Market
-build_property.ProjectDir = /Users/new/Desktop/Posuda/
+build_property.ProjectDir = /Users/new/Desktop/RRR/Posuda/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 
-[/Users/new/Desktop/Posuda/AddNewItem.axaml]
+[/Users/new/Desktop/RRR/Posuda/AddNewItem.axaml]
 build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
 
-[/Users/new/Desktop/Posuda/App.axaml]
+[/Users/new/Desktop/RRR/Posuda/App.axaml]
 build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
 
-[/Users/new/Desktop/Posuda/ChangeItemWindow.axaml]
+[/Users/new/Desktop/RRR/Posuda/ChangeItemWindow.axaml]
 build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
 
-[/Users/new/Desktop/Posuda/ChoosePickupPoint.axaml]
+[/Users/new/Desktop/RRR/Posuda/ChoosePickupPoint.axaml]
 build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
 
-[/Users/new/Desktop/Posuda/LoginWindow.axaml]
+[/Users/new/Desktop/RRR/Posuda/LoginWindow.axaml]
 build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
 
-[/Users/new/Desktop/Posuda/MainWindow.axaml]
+[/Users/new/Desktop/RRR/Posuda/MainWindow.axaml]
 build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
 
-[/Users/new/Desktop/Posuda/MBoxExitAsc.axaml]
+[/Users/new/Desktop/RRR/Posuda/MBoxExitAsc.axaml]
 build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
 
-[/Users/new/Desktop/Posuda/OrderConfirmWindow.axaml]
+[/Users/new/Desktop/RRR/Posuda/OrderConfirmWindow.axaml]
 build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
 
-[/Users/new/Desktop/Posuda/Orderr.axaml]
+[/Users/new/Desktop/RRR/Posuda/Orderr.axaml]
 build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
 
-[/Users/new/Desktop/Posuda/RegWindow.axaml]
+[/Users/new/Desktop/RRR/Posuda/RegWindow.axaml]
 build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
